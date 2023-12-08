@@ -1,4 +1,6 @@
 # mini-loop v5.0 - install Mojaloop v15.0.0 (using kubernetes v1.26 - 1.27 with k3s or microk8s) 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBashyPy%2Fmini-loop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBashyPy%2Fmini-loop?ref=badge_shield)
+
 ## Description 
 mini-loop is a simple, scripted/automated installer for Mojaloop (http://mojaloop.io) to enable demo, test, training and development of the Mojaloop switch and its associated environment. 
 
@@ -201,3 +203,6 @@ Note you can only have one host per line so on windows 10 your hosts file should
    https://github.com/mojaloop/helm 
 
 2. The best way to run on a windows laptop is to provision an Ubuntu 20 or 22 virtual machine using one of the popular Hypervisors available today (HyperV, VirtualBox, UTM etc) 
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBashyPy%2Fmini-loop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBashyPy%2Fmini-loop?ref=badge_large)
